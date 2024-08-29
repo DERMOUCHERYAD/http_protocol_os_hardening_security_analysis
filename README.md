@@ -27,6 +27,7 @@ The downloaded file, once executed, compromised the end users' systems by introd
 ## Contents of the Repository
 - **Incident Analysis Report:** A detailed document of the incident, including the investigation process, findings, and recommendations.
 - **tcpdump Logs:** Captured logs used in the analysis.
+- **How to read the tcpdump traffic log.pdf:** Explaining how can we analyse this logs 
 
 ## Conclusion
 This analysis highlights the importance of robust security measures, such as MFA, to protect against brute force attacks and malicious activities. Implementing these measures can significantly enhance the security posture of the website and safeguard users' data.
